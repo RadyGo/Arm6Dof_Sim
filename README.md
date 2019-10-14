@@ -5,11 +5,11 @@ All CAD and code is licensed under GPL3: https://www.gnu.org/licenses/gpl-3.0.en
 
 机器臂坐标系：
 
-![](D:\rady\git-project\Arm6Dof_Sim\robot.jpg)
+![](robot.jpg)
 
 控制界面：
 
-![](D:\rady\git-project\Arm6Dof_Sim\ctrlgui.jpg)
+![](ctrlgui.jpg)
 
 simulink模型：
 
